@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-08-27T23:39:33.186Z",
+  "source_name": "飛騨市公式サイト 募集RSS（「神岡」を含むもののみ）",
+  "job_count": 2,
+  "jobs": [
+    {
+      "title": "神岡無料職業紹介所の求人情報（6月分追加）",
+      "type": "募集",
+      "summary": "",
+      "url": "https://www.city.hida.gifu.jp/soshiki/14/kamioka.html",
+      "updated_date": "2026-06-01",
+      "organization": "商工課",
+      "source": "飛騨市公式サイト"
+    },
+    {
+      "title": "「神岡城桜守の会」会員を募集！",
+      "type": "募集",
+      "summary": "会員募集中",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/70980.html",
+      "updated_date": "2025-04-04",
+      "organization": "神岡振興事務所",
+      "source": "飛騨市公式サイト"
+    }
+  ]
+}

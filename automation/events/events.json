@@ -1,0 +1,60 @@
+{
+  "updated_at": "2026-08-27T23:39:32.762Z",
+  "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
+  "source_urls": [
+    "https://www.city.hida.gifu.jp/rss/10/list5.xml"
+  ],
+  "event_count": 5,
+  "events": [
+    {
+      "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
+      "url": "https://www.city.hida.gifu.jp/site/kosodate/33977.html",
+      "summary": "全天候型の子どもの遊び場年間開設スケジュール",
+      "start_date": "2025-05-01",
+      "end_date": "2027-03-31",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-05-01T12:00:00+09:00"
+    },
+    {
+      "title": "神岡城でパネル展「知られざる神岡の縄文」",
+      "url": "https://www.city.hida.gifu.jp/site/bunka/81991.html",
+      "summary": "神岡城でパネル展「知られざる神岡の縄文」",
+      "start_date": "2026-04-01",
+      "end_date": "2026-11-30",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-03-31T12:00:00+09:00"
+    },
+    {
+      "title": "【市民掲示板】飛騨神岡の自然と歴史ハイキング「江馬氏が見守る高原郷」開催中",
+      "url": "https://www.city.hida.gifu.jp/site/koho/84463.html",
+      "summary": "【市民掲示板】飛騨神岡の自然と歴史ハイキング「江馬氏が見守る高原郷」開催中",
+      "start_date": "2026-06-08",
+      "end_date": "2026-09-08",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-06-08T00:00:00+09:00"
+    },
+    {
+      "title": "としょかん喫茶よさり（神岡図書館）",
+      "url": "https://www.city.hida.gifu.jp/soshiki/31/86066.html",
+      "summary": "としょかん喫茶よさり（神岡図書館）",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-08-07T09:00:00+09:00"
+    },
+    {
+      "title": "【市民掲示板】第8回飛騨市ノルディックウオーキングフェスタin神岡",
+      "url": "https://www.city.hida.gifu.jp/site/koho/86525.html",
+      "summary": "【市民掲示板】第8回飛騨市ノルディックウオーキングフェスタ",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-08-18T00:00:00+09:00"
+    }
+  ]
+}

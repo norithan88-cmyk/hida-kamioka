@@ -1,0 +1,40 @@
+name: 神岡町の地域情報を自動更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 21 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ファイルを取得
+        uses: actions/checkout@v4
+
+      - name: Node.jsを準備
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 神岡関連のイベント・ニュース・募集を収集
+        run: |
+          node automation/events/collect-events.mjs
+          node automation/news/collect-news.mjs
+          node automation/jobs/collect-jobs.mjs
+
+      - name: 変更があるときだけ保存
+        shell: bash
+        run: |
+          if git diff --quiet -- automation/events/events.json automation/news/news.json automation/jobs/jobs.json; then
+            echo "変更はありません"
+            exit 0
+          fi
+          git config user.name "kamioka-navi-bot"
+          git config user.email "kamioka-navi-bot@users.noreply.github.com"
+          git add -- automation/events/events.json automation/news/news.json automation/jobs/jobs.json
+          git commit -m "神岡町の地域情報を自動更新"
+          git push

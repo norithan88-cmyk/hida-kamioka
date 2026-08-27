@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-08-27T23:39:32.331Z",
+  "source_name": "飛騨市公式サイト お知らせRSS（「神岡」を含むもののみ）",
+  "source_urls": [
+    "https://www.city.hida.gifu.jp/rss/10/list1.xml"
+  ],
+  "news_count": 2,
+  "news": [
+    {
+      "title": "神岡⇔古川の往来は太江杉崎バイパスをご利用ください！！",
+      "url": "https://www.city.hida.gifu.jp/soshiki/22/84935.html",
+      "summary": "太江杉崎バイパスをご利用ください！",
+      "category": "建設課",
+      "published_at": "2026-06-17T00:00:00+09:00",
+      "source": "飛騨市公式サイト"
+    },
+    {
+      "title": "神岡 朝市直売所がオープンします！",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/82887.html",
+      "summary": "神岡朝市直売所がオープン！",
+      "category": "神岡振興事務所",
+      "published_at": "2026-04-22T08:00:00+09:00",
+      "source": "飛騨市公式サイト"
+    }
+  ]
+}
