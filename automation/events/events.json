@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-02T23:21:23.646Z",
+  "updated_at": "2026-09-03T23:19:04.154Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 5,
+  "event_count": 6,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -55,6 +55,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-08-18T00:00:00+09:00"
+    },
+    {
+      "title": "里の音楽会in神岡図書館",
+      "url": "https://www.city.hida.gifu.jp/soshiki/31/86845.html",
+      "summary": "",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-09-03T09:00:00+09:00"
     }
   ]
 }
