@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-03T23:19:04.154Z",
+  "updated_at": "2026-09-04T23:04:25.608Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 6,
+  "event_count": 5,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -35,16 +35,6 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-06-08T00:00:00+09:00"
-    },
-    {
-      "title": "としょかん喫茶よさり（神岡図書館）",
-      "url": "https://www.city.hida.gifu.jp/soshiki/31/86066.html",
-      "summary": "としょかん喫茶よさり（神岡図書館）",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-08-07T09:00:00+09:00"
     },
     {
       "title": "【市民掲示板】第8回飛騨市ノルディックウオーキングフェスタin神岡",
