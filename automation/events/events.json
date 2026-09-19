@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-18T23:20:55.410Z",
+  "updated_at": "2026-09-19T23:11:44.677Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 5,
+  "event_count": 4,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -25,16 +25,6 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-03-31T12:00:00+09:00"
-    },
-    {
-      "title": "神岡フレンチ＠江馬館",
-      "url": "https://www.city.hida.gifu.jp/soshiki/32/86841.html",
-      "summary": "神岡フレンチ＠江馬館",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-08-31T00:00:00+09:00"
     },
     {
       "title": "神中3年生とのコラボ講座「みんなの色で描く神岡」",
