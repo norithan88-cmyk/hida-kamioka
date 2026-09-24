@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-23T23:45:36.602Z",
+  "updated_at": "2026-09-24T23:53:41.900Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 4,
+  "event_count": 6,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -37,6 +37,16 @@
       "published_at": "2026-09-11T00:00:00+09:00"
     },
     {
+      "title": "【参加者募集】飛騨防災ラボ 第1回地域防災研修会（神岡会場）",
+      "url": "https://www.city.hida.gifu.jp/site/bousai/87321.html",
+      "summary": "飛騨防災ラボ 第1回 地域防災研修会",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-09-24T00:00:00+09:00"
+    },
+    {
       "title": "里の音楽会in神岡図書館",
       "url": "https://www.city.hida.gifu.jp/soshiki/31/86845.html",
       "summary": "",
@@ -45,6 +55,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-09-03T09:00:00+09:00"
+    },
+    {
+      "title": "【道の駅 スカイドーム・神岡】驚くほど濃厚な!! はちみつ×飛騨りんご！秋の新作「飛騨りんごのはちみつソフト」 10月5日（月曜日）より発売",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/87391.html",
+      "summary": "飛騨りんごソフトクリーム",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-09-25T00:00:00+09:00"
     }
   ]
 }
