@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T23:39:25.940Z",
+  "updated_at": "2026-09-27T23:50:13.998Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
@@ -27,14 +27,14 @@
       "published_at": "2026-03-31T12:00:00+09:00"
     },
     {
-      "title": "神中3年生とのコラボ講座「みんなの色で描く神岡」",
-      "url": "https://www.city.hida.gifu.jp/site/syogaigakusyu/87055.html",
-      "summary": "参加者募集",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
+      "title": "【市民掲示板】サイエンスカフェ・神岡「ハイパーカミオカンデの研究者と話そう」",
+      "url": "https://www.city.hida.gifu.jp/site/koho/87543.html",
+      "summary": "【市民掲示板】サイエンスカフェ・神岡「ハイパーカミオカンデの研究者と話そう」",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
-      "published_at": "2026-09-11T00:00:00+09:00"
+      "published_at": "2026-09-25T00:00:00+09:00"
     },
     {
       "title": "【参加者募集】飛騨防災ラボ 第1回地域防災研修会（神岡会場）",
