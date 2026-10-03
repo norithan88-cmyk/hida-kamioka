@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-03T00:32:28.106Z",
+  "updated_at": "2026-10-03T23:48:30.854Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 6,
+  "event_count": 4,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -25,26 +25,6 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-03-31T12:00:00+09:00"
-    },
-    {
-      "title": "【市民掲示板】サイエンスカフェ・神岡「ハイパーカミオカンデの研究者と話そう」",
-      "url": "https://www.city.hida.gifu.jp/site/koho/87543.html",
-      "summary": "【市民掲示板】サイエンスカフェ・神岡「ハイパーカミオカンデの研究者と話そう」",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-09-25T00:00:00+09:00"
-    },
-    {
-      "title": "【参加者募集】飛騨防災ラボ 第1回地域防災研修会（神岡会場）",
-      "url": "https://www.city.hida.gifu.jp/site/bousai/87321.html",
-      "summary": "飛騨防災ラボ 第1回 地域防災研修会",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-09-24T00:00:00+09:00"
     },
     {
       "title": "里の音楽会in神岡図書館",
