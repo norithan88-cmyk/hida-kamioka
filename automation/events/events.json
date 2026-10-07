@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-06T01:46:33.486Z",
+  "updated_at": "2026-10-07T00:46:09.991Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 2,
+  "event_count": 4,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -25,6 +25,26 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-03-31T12:00:00+09:00"
+    },
+    {
+      "title": "江馬館で飛騨神岡高校茶道部が秋の茶会",
+      "url": "https://www.city.hida.gifu.jp/site/bunka/87803.html",
+      "summary": "江馬館で飛騨神岡高校茶道部が秋の茶会",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-06T00:00:00+09:00"
+    },
+    {
+      "title": "飛騨の歴史講座（神岡図書館）",
+      "url": "https://www.city.hida.gifu.jp/soshiki/31/87115.html",
+      "summary": "飛騨の歴史講座（神岡図書館）",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-07T09:00:00+09:00"
     }
   ]
 }
