@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-07T00:46:09.991Z",
+  "updated_at": "2026-10-08T01:03:07.143Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 4,
+  "event_count": 5,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -35,6 +35,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-06T00:00:00+09:00"
+    },
+    {
+      "title": "避難所TKB訓練in神岡【参加者募集】",
+      "url": "https://www.city.hida.gifu.jp/site/bousai/87889.html",
+      "summary": "避難所TKB訓練in神岡",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-08T00:00:00+09:00"
     },
     {
       "title": "飛騨の歴史講座（神岡図書館）",
