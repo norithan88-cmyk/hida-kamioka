@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-08T01:03:07.143Z",
+  "updated_at": "2026-10-09T01:15:17.854Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 5,
+  "event_count": 6,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -55,6 +55,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-07T09:00:00+09:00"
+    },
+    {
+      "title": "お金が残る！儲けの仕組みセミナー",
+      "url": "https://www.city.hida.gifu.jp/soshiki/14/87965.html",
+      "summary": "神岡初開催！「お金が残る！儲けの仕組み」セミナー開催",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-09T00:00:00+09:00"
     }
   ]
 }
