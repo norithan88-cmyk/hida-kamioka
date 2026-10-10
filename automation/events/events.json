@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T01:15:17.854Z",
+  "updated_at": "2026-10-10T00:56:48.308Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 6,
+  "event_count": 7,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -35,6 +35,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-06T00:00:00+09:00"
+    },
+    {
+      "title": "【市民掲示板】カミフリ（神岡商工会議所×フリーマーケット）",
+      "url": "https://www.city.hida.gifu.jp/site/koho/88027.html",
+      "summary": "【市民掲示板】カミフリ（神岡商工会議所×フリーマーケット）開催！",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-10T00:00:00+09:00"
     },
     {
       "title": "避難所TKB訓練in神岡【参加者募集】",
