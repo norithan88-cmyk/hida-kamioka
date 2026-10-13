@@ -45,31 +45,3 @@ jobs:
           git commit -m "神岡町の地域情報を自動更新"
           git pull --rebase origin main
           git push
-
-      - name: 今日の神岡ラジオを生成
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
-        run: |
-          if [ -z "$AZURE_SPEECH_KEY" ]; then
-            echo "::warning::AZURE_SPEECH_KEY が未登録のためラジオを作りません（Settings → Secrets に登録してください）"
-            exit 0
-          fi
-          if ! command -v ffmpeg >/dev/null 2>&1; then
-            sudo apt-get update
-            sudo apt-get install --yes ffmpeg
-          fi
-          node automation/radio/generate-daily-script.mjs automation/radio/daily-script.txt
-          node automation/radio/generate-audio.mjs automation/radio/daily-script.txt automation/radio/daily.mp3
-
-      - name: ラジオ音声を保存
-        shell: bash
-        run: |
-          if [ ! -f automation/radio/daily.mp3 ]; then exit 0; fi
-          git config user.name "kamioka-navi-bot"
-          git config user.email "kamioka-navi-bot@users.noreply.github.com"
-          git add -- automation/radio/daily-script.txt automation/radio/daily.mp3 automation/radio/daily-sources.json automation/radio/broadcast-history.json
-          if git diff --cached --quiet; then echo "ラジオに変更はありません"; exit 0; fi
-          git commit -m "今日の神岡ラジオを更新"
-          git pull --rebase origin main
-          git push

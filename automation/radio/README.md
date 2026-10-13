@@ -1,6 +1,6 @@
 # 神岡ラジオ：毎朝・約7分
 
-いずみなびの「いずみラジオ」と同じ仕組みを、神岡町向けにしたものです。毎朝6時20分ごろ（日本時間）の自動更新のあと、台本と音声（Azure Nanami）を作って `daily.mp3` を公開します。神岡ナビのTOPページは、日本語のときこの音声を再生し、取れないときは従来のブラウザ読み上げに戻ります。
+いずみなびの「いずみラジオ」と同じ仕組みを、神岡町向けにしたものです。台本と音声（Azure Nanami）は、APIキーを共用するため **izuminavi-data の `kamioka-radio.yml` が毎朝6時40分ごろ** にこのフォルダの仕組みを使って作り、`izuminavi-data/automation/kamioka-radio/daily.mp3` に保存します。神岡ナビのTOPページは、日本語のときこの音声を再生し、取れないときは従来のブラウザ読み上げに戻ります。
 
 ## 番組の流れ
 つかみの一言 → 挨拶と今日のメニュー → みおんクイズ出題（3択） → お便り → 話題1 → 目玉「みおんの神岡ディープ」 → 神岡のまちの話題（2週間以内のイベント等・ある日だけ） → 話題2 → 土曜の創作小話 → クイズの答え → 運営者のお知らせ → 結び → 明日のテーマ予告。
@@ -11,8 +11,5 @@
 - `listener-notes.json`：運営者・住民のお便り。`from_date`〜`until_date` の間に1回だけ放送。
 - `owner-message.json`：毎回読むお知らせ（空なら読まない）。TOPページ用の `automation/owner-message.json` とは別。
 
-## 必要な設定（GitHubのSettings → Secrets and variables → Actions）
-- `GEMINI_API_KEY`：台本の調査・編集（いずみなびと同じキーで可）
-- `AZURE_SPEECH_KEY`：音声（いずみなびと同じキーで可）
-
-`AZURE_SPEECH_KEY` が未登録のあいだは、ラジオを作らずに地域情報の更新だけを行います。手動で作り直すときは Actions の「神岡ラジオだけを更新」を実行します。
+## 編集のしかた
+このフォルダ（台本のルール、`local-stories.json`、`listener-notes.json`、`owner-message.json`）を編集すれば、翌朝の放送に反映されます。手動で作り直すときは izuminavi-data の Actions「神岡ラジオを生成」を実行します。
