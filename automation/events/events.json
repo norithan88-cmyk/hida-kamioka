@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:36:03.912Z",
+  "updated_at": "2026-10-14T00:20:08.148Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
@@ -47,9 +47,9 @@
       "published_at": "2026-10-10T00:00:00+09:00"
     },
     {
-      "title": "スカイドーム神岡感謝祭開催",
-      "url": "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
-      "summary": "道の駅 スカイドーム神岡",
+      "title": "神岡化石フォーラム2026",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
+      "summary": "神岡化石フォーラムの開催",
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "category": "飛騨市公式",
@@ -57,9 +57,9 @@
       "published_at": "2026-10-13T00:00:00+09:00"
     },
     {
-      "title": "神岡化石フォーラム2026",
-      "url": "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
-      "summary": "神岡化石フォーラムの開催",
+      "title": "スカイドーム神岡感謝祭開催",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
+      "summary": "道の駅 スカイドーム神岡",
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "category": "飛騨市公式",
