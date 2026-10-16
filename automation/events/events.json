@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-15T23:41:55.829Z",
+  "updated_at": "2026-10-16T23:39:04.959Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 10,
+  "event_count": 11,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -45,6 +45,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-10T00:00:00+09:00"
+    },
+    {
+      "title": "としょかん喫茶よさり（神岡図書館）",
+      "url": "https://www.city.hida.gifu.jp/soshiki/31/88077.html",
+      "summary": "としょかん喫茶よさり（神岡図書館）",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-16T09:00:00+09:00"
     },
     {
       "title": "神岡化石フォーラム2026",
