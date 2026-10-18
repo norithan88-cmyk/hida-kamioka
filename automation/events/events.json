@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T23:10:32.575Z",
+  "updated_at": "2026-10-18T23:19:14.593Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 11,
+  "event_count": 10,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -25,16 +25,6 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-03-31T12:00:00+09:00"
-    },
-    {
-      "title": "江馬館で飛騨神岡高校茶道部が秋の茶会",
-      "url": "https://www.city.hida.gifu.jp/site/bunka/87803.html",
-      "summary": "江馬館で飛騨神岡高校茶道部が秋の茶会",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-10-06T00:00:00+09:00"
     },
     {
       "title": "【市民掲示板】カミフリ（神岡商工会議所×フリーマーケット）",
