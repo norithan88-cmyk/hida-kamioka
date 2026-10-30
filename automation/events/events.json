@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T01:01:27.205Z",
+  "updated_at": "2026-10-30T01:06:35.493Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 10,
+  "event_count": 12,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -27,6 +27,16 @@
       "published_at": "2026-03-31T12:00:00+09:00"
     },
     {
+      "title": "飛騨神岡の城めぐりオータムキャンペーン2026",
+      "url": "https://www.city.hida.gifu.jp/soshiki/32/88536.html",
+      "summary": "飛騨神岡の城めぐりオータムキャンペーン2026",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-30",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-29T00:00:00+09:00"
+    },
+    {
       "title": "神岡図書館で音楽会「神図音楽会」",
       "url": "https://www.city.hida.gifu.jp/soshiki/31/88057.html",
       "summary": "「古林音楽教室」さんによる、エレクトーン、電子ピアノ、カホン、ハンドベルの演奏",
@@ -45,6 +55,16 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-16T09:00:00+09:00"
+    },
+    {
+      "title": "神岡中学校の生徒考案！飛騨市産食材を使ったカレーを販売します！",
+      "url": "https://www.city.hida.gifu.jp/soshiki/57/88534.html",
+      "summary": "神岡中学校の生徒が考案し、飛騨スパイスカレー研究所の協力で完成した特別なカレーを販売。市内産の有機野菜やお米、地鶏など、飛騨の恵みと中学生のアイデアが詰まった一皿を、道の駅スカイドーム・神岡の感謝祭で提供します。",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-10-29T00:00:00+09:00"
     },
     {
       "title": "神岡化石フォーラム2026",
