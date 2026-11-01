@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:51:36.685Z",
+  "updated_at": "2026-11-01T00:10:44.925Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
@@ -57,6 +57,16 @@
       "published_at": "2026-10-16T09:00:00+09:00"
     },
     {
+      "title": "スカイドーム神岡感謝祭",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
+      "summary": "道の駅 スカイドーム神岡",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-11-01T00:00:00+09:00"
+    },
+    {
       "title": "神岡中学校の生徒考案！飛騨市産食材を使ったカレーを販売します！",
       "url": "https://www.city.hida.gifu.jp/soshiki/57/88534.html",
       "summary": "神岡中学校の生徒が考案し、飛騨スパイスカレー研究所の協力で完成した特別なカレーを販売。市内産の有機野菜やお米、地鶏など、飛騨の恵みと中学生のアイデアが詰まった一皿を、道の駅スカイドーム・神岡の感謝祭で提供します。",
@@ -70,16 +80,6 @@
       "title": "神岡化石フォーラム2026",
       "url": "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
       "summary": "神岡化石フォーラムの開催",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-10-13T00:00:00+09:00"
-    },
-    {
-      "title": "スカイドーム神岡感謝祭",
-      "url": "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
-      "summary": "道の駅 スカイドーム神岡",
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "category": "飛騨市公式",
