@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:49:17.261Z",
+  "updated_at": "2026-11-03T02:56:25.822Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
@@ -54,7 +54,17 @@
       "end_date": "2026-11-07",
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
-      "published_at": "2026-11-01T00:00:00+09:00"
+      "published_at": "2026-11-02T00:00:00+09:00"
+    },
+    {
+      "title": "神岡化石フォーラム2026",
+      "url": "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
+      "summary": "神岡化石フォーラムの開催",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "category": "飛騨市公式",
+      "source": "飛騨市公式サイト",
+      "published_at": "2026-11-02T00:00:00+09:00"
     },
     {
       "title": "神岡中学校の生徒考案！飛騨市産食材を使ったカレーを販売します！",
@@ -65,16 +75,6 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-29T00:00:00+09:00"
-    },
-    {
-      "title": "神岡化石フォーラム2026",
-      "url": "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
-      "summary": "神岡化石フォーラムの開催",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-10-13T00:00:00+09:00"
     },
     {
       "title": "避難所TKB訓練in神岡【参加者募集】",
