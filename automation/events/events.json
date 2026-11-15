@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14T01:28:29.236Z",
+  "updated_at": "2026-11-15T01:05:34.607Z",
   "source_name": "飛騨市公式サイト イベントRSS（「神岡」を含むもののみ）",
   "source_urls": [
     "https://www.city.hida.gifu.jp/rss/10/list5.xml"
   ],
-  "event_count": 5,
+  "event_count": 4,
   "events": [
     {
       "title": "全天候型の子どもの遊び場（ハートぴあ広場・神岡親子ふれあい広場）",
@@ -35,16 +35,6 @@
       "category": "飛騨市公式",
       "source": "飛騨市公式サイト",
       "published_at": "2026-10-29T00:00:00+09:00"
-    },
-    {
-      "title": "ファミリーフェスタ in 神岡2026",
-      "url": "https://www.city.hida.gifu.jp/soshiki/47/87967.html",
-      "summary": "飛騨神岡Kids未来プロジェクト主催による「みかお2026ファミリーフェスタ in Kamioka」が開催されます。親子で楽しめる企画が盛りだくさんのイベントです。",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "category": "飛騨市公式",
-      "source": "飛騨市公式サイト",
-      "published_at": "2026-11-09T00:00:00+09:00"
     },
     {
       "title": "【市民掲示板】神岡中学校 合唱祭",
